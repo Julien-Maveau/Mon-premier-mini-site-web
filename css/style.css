@@ -1,0 +1,61 @@
+ body {
+
+background-image:url("../images/GameArea.jpg")  ;
+background-size:100%;
+background-repeat: no-repeat;
+ }
+ 
+ header {
+
+
+
+}
+section
+{
+ 
+    font-weight: bold;
+font-size: larger; ;
+text-align:left;
+ 
+}
+title {
+    text-align: center;
+font-size: x-small;
+    
+} 
+h1{
+    text-align: center;
+    color:rgb(143, 17, 17);
+
+}
+#FNAF{
+ 
+  -webkit-text-stroke-width: 0.5px;
+  -webkit-text-stroke-color: rgb(0, 115, 255);
+    
+    color:rgb(255, 255, 255);
+}
+#Hat-trick{
+     
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(20, 122, 20);
+    color:rgb(23, 167, 35);
+    forced-color-adjust: auto;
+}
+#Let-me-through{
+   
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: rgb(158, 6, 6);
+    color:rgb(162, 15, 15);
+}
+#Link{
+    color: rgb(138, 138, 138);
+    font-size: small;
+}
+h3{
+text-decoration: underline;
+
+}
+#img{
+    width: 10vw;
+}
